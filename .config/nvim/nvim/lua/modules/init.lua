@@ -1,0 +1,1 @@
+require('yoavnvim/init.lua')

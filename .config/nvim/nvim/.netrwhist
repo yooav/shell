@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/yoavshmariahu/src/shell/.config/nvim/nvim'
+let g:netrw_dirhist_9='/home/yoavshmariahu/src/shell/.config/nvim'
+let g:netrw_dirhist_8='/home/yoavshmariahu/applied2/applied2'
+let g:netrw_dirhist_7='/home/yoavshmariahu/applied2/applied2/simian/sim/worker'
+let g:netrw_dirhist_6='/home/yoavshmariahu/applied2/applied2/simian/modules/k8s/argocd'
+let g:netrw_dirhist_5='/home/yoavshmariahu/applied2/applied2/simian/modules/k8s/argocd/app_of_apps_chart'
+let g:netrw_dirhist_4='/home/yoavshmariahu/applied2/applied2/simian/modules/k8s/argocd/app_of_apps_chart/templates'
+let g:netrw_dirhist_3='/home/yoavshmariahu/applied2/applied2/simian/modules/k8s/argocd'
+let g:netrw_dirhist_2='/home/yoavshmariahu/applied2/applied2'
+let g:netrw_dirhist_1='/home/yoavshmariahu/applied2/applied2/simian/modules/k8s/argocd'
